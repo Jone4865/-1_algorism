@@ -7,7 +7,6 @@ function num(a,b){
     for(let i =0; i<b; i++){
         console.log(width)
     }
-    return('')
 }
 
 // 변수입력 while
